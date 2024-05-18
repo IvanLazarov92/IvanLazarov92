@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @IvanLazarov92
 - 👀 I’m interested in JavaScript and QA
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me : www.linkedin.com/in/
-ivan-lazarov-0399a9237
+- 📫 How to reach me : www.linkedin.com/in/ivan-lazarov-0399a9237
 
 
 <!---
